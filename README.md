@@ -1,7 +1,9 @@
 # Dio-Dino-Game
 
 Adicionado botão para reiniciar o jogo.
+
 Projeto Digital Innovation One
+
 Especialista: Carlos Henrique
 
 Recriando o famoso jogo do dinossauro sem internet
